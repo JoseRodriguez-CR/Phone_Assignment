@@ -15,7 +15,7 @@ public class Galaxy extends Phone implements Ringable {
     
     @Override
     public void unlock() {
-    	System.out.println("Your IPhone has been unlock, welcome");
+    	System.out.println("Your Galaxy Note 10 has been unlock, welcome");
     }
     
     @Override
